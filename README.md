@@ -1,2 +1,2 @@
 # Face-Mask-Detection-System
-FMDS using DNN
+FMDS using CNN
